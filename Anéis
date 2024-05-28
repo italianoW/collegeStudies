@@ -1,0 +1,19 @@
+Um anél é um grupo que contém operações iguais ou diferentes de soma e multiplicação.
+
+Exemplo:  A O B = A + B     e   A K B = AB
+          (sendo O e K representaçaõ de operações de soma e multiplicação respectivamente.)
+
+      ou  A O B = A + B - 3 e   A K B = A + Y - (AB)/3
+          (sendo O e K representaçaõ de operações de soma e multiplicação respectivamente.)
+
+Requisitos:      (A,+,X) =  anél A com operação de soma (+) e operação de multiplicação (X).
+  - não vazio, ou seja, deve possuir elementos.
+  - possuir fechamento, ou seja, a soma de quaisquer elementos deve ser um elemento do anél. (∀ a,b ∈ A --> a+b ∈ A)
+  - possuir identidade u ou 1r, da qual, ∀a ∈ A, u O a = a O u = a, para um mesmo u.
+  - possuir inverso -b, onde, ∀b ∈ A,  b + -b  = -b + b = u.
+  -   (a+b = b+a)   ∧   (a+(b+c) = (a+b)+c)
+
+  - a X b = b X a                  ==   ab = ba
+  - a X (b X c) = (a X b) X c      ==   a(bc) = (ab)c 
+  - (a + b) X c = a X c + b X c    ==   (a+b)c = ac + bc
+  - a X (b + c) = a X b + a X c    ==   a(b+c) = ab + ac
