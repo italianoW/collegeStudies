@@ -1,6 +1,9 @@
-Um vetor t�m como exig�ncia os mesmos detalhes de um an�l.
+Um vetor têm como exigência os mesmos detalhes de um anél.
 
-Para verificar se um vetor � subvetor de um vetor ja comprovado somente v�-se necess�rio estudar:
+Para verificar se um vetor é subvetor de um vetor ja comprovado somente vê-se necessário estudar:
+
 	- Existe elemento neutro equivalente a vetor pai.
-	- Va,b e A --> a+b e A.
-	- Va,b e A --> ab e A.
+
+	- ∀(a,b) ∈ A --> a+b ∈ A
+
+	- ∀(a,b) ∈ A --> a.b ∈ A
