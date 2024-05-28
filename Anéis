@@ -26,9 +26,11 @@ Requisitos:      (A,+,X) =  anél A com operação de soma (+) e operação de m
                     -F(a.b) = F(a) M F(b)
 
           -ISOMORFISMO
-                    -Bijetora, ou seja, ∀ a ∈ A,
+                    -Bijetora, ou seja, 
+                                        ∀ a ∈ A, 
                                         ∃ f(a) ∈ B,
-                                        ∀ n =/ a, n ∈ A --> f(a) ⊕ f(n) 
+
+                                        ∀(n ∈ A, n =/ a) --> f(a) ⊕ f(n) 
           }
 
 RESOLUÇÕES GERAIS!
