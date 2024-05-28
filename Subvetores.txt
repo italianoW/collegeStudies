@@ -1,0 +1,6 @@
+Um vetor têm como exigência os mesmos detalhes de um anél.
+
+Para verificar se um vetor é subvetor de um vetor ja comprovado somente vê-se necessário estudar:
+	- Existe elemento neutro equivalente a vetor pai.
+	- Va,b e A --> a+b e A.
+	- Va,b e A --> ab e A.
