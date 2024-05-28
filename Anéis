@@ -17,3 +17,20 @@ Requisitos:      (A,+,X) =  anél A com operação de soma (+) e operação de m
   - a X (b X c) = (a X b) X c      ==   a(bc) = (ab)c 
   - (a + b) X c = a X c + b X c    ==   (a+b)c = ac + bc
   - a X (b + c) = a X b + a X c    ==   a(b+c) = ab + ac
+  - OPCIONAL:
+          {
+          -HOMOMORFISMO
+                    Para (A,+,.) e (B,S,M):
+
+                    -F(a+b) = F(a) S F(b)
+                    -F(a.b) = F(a) M F(b)
+
+          -ISOMORFISMO
+                    -Bijetora, ou seja, ∀ a ∈ A,
+                                        ∃ f(a) ∈ B,
+                                        ∀ n =/ a, n ∈ A --> f(a) ⊕ f(n) 
+          }
+
+RESOLUÇÕES GERAIS!
+Caso 1: (anél modular ímpar com soma e multiplicação comuns de {0,1,2,3,4} mod 5)
+          
