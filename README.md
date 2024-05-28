@@ -1,2 +1,2 @@
 # collegeStudies
-Every single content gathered on UFCG summed up in topics
+Every content i remebered to gather on UFCG summed up in topics
