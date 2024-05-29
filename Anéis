@@ -25,7 +25,7 @@ Requisitos:      (A,+,X) =  anél A com operação de soma (+) e operação de m
   - COM RELAÇÃO A OUTRO ANÉL:
           {
           -HOMOMORFISMO
-                    Para (A,+,.) e (B,S,M), f(x) = (operacao), A --> B:
+                    Para (A,+,.) e (B,S,M), f(x) = (transformacao de e ∈ A para f(e) ∈ B), A --> B:
 
                     -F(a+b) = F(a) S F(b)
                     -F(a.b) = F(a) M F(b)
