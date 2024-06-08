@@ -46,7 +46,7 @@ Caso 1: (anél modular de ordem ímpar com soma e multiplicação comuns; {0,1,2
                      ((A,+,.); A = {0,1,2,3,4} mod 5) é anel?
           -não é vazio, pois possui 5 elementos.
           -possui fechamento devido à aritmética modular contendo 0,1,2,3,4; ou seja, todos os elementos de Z(5)
-          - a + u = u + a = a;          a = 0
+          - a + u = u + a = a;          u = 0
           - a + -a = -a + a = u;        axioma da aritmética modular diz existir inverso para cada x em Z(n).
           - (a + b = b + a)    ∧    (a + (b + c) = (a + b) + c)
 
